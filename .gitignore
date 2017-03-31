@@ -1,0 +1,11 @@
+#IDEA
+.idea/
+
+#build
+target/
+
+#iml
+*.iml
+
+#textFiles
+*.txt
